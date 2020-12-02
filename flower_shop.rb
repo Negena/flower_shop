@@ -7,3 +7,4 @@ while flowers.any?
   flowers.delete(input)
 end
 puts "congrats you bought everything you needed"
+puts "That's all"
